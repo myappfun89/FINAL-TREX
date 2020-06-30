@@ -1,2 +1,2 @@
-# FINAL-TREX
-TREX GAME IN CHROME
+# trex
+Offline Game where trex jumps and runs over the obstacles.
